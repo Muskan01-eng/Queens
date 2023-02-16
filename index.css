@@ -1,0 +1,112 @@
+/* #eb9999 */
+#aisehi{
+    width: 100%;
+    height: 40px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10PX;
+}
+.aisehi{
+    text-decoration: underline;
+    color: #fff;
+}
+body{
+    color: black;
+    
+}
+a{
+    margin: 2px 7px;
+    text-decoration: none;
+}
+.tit{
+   padding: 1% 10% 1% 10%;
+}
+#title{
+    background-color: #edd3d3;
+    font-size: 1.2rem;
+    margin: 0;
+   
+}
+.dark{
+    color: white;
+}
+.imgbrand{
+    width: 60%;
+    text-align: center ;
+}
+.color{
+    color: rgb(64, 63, 63);
+}
+
+/* banner */
+.banner{
+    height: 700px;
+    width: 100%;
+    margin: 0;
+}
+
+/* new arrivals */
+#newarrival{
+    background-color: #fdeeec;
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 1px;
+}
+/* Wedding Grandeur */
+#WeddingGrandeur{
+    background-color: #fdeeec;
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 1px;
+}
+
+/* CATEGORIES */
+#CATEGORIES{
+    background-color: #fdeeec;
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 1px;
+}
+/* TRENDING */
+#TRENDING{
+    background-color: #fdeeec;
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 1px;
+}
+/* testimonials */
+#testimonial{
+    background-color: #fdeeec;
+    text-align: center;
+    font-style: italic;
+    padding: 25px;
+    padding-bottom: 50px;
+    
+}
+.testimonial{
+    line-height: 5;
+}
+/* featured */
+#featured{
+    text-align: center;
+    background-color: #fdeeec;
+    margin-top: 25px;
+}
+
+
+.footer{
+    padding: 20px;
+    background-color: #edd3d3;
+} 
+#footer{
+    text-align: center;
+}
