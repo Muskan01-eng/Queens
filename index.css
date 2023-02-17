@@ -95,6 +95,14 @@ a{
 .testimonial{
     line-height: 5;
 }
+
+.testi{
+    padding: 20px;
+     margin: 1%;
+     width: 31%;
+     border-radius: 5%;
+ }
+ 
 /* featured */
 #featured{
     text-align: center;
