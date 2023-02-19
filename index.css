@@ -18,6 +18,7 @@ body{
 a{
     margin: 2px 7px;
     text-decoration: none;
+    color: #000;
 }
 .tit{
    padding: 1% 10% 1% 10%;
@@ -48,18 +49,45 @@ a{
 
 /* new arrivals */
 #newarrival{
+    padding-top: 5%;
     background-color: #fdeeec;
-    height: 700px;
-    width: 100%;
+    
+   
     text-align: center;
-    padding: 5%;
+  
     margin-bottom: 1px;
+}
+
+.figure{
+    text-align: center;
+    width: 90%;
+    height: 85%;
+    margin: 10%;
+}
+.btnf{
+    margin: 4%;
+    text-align: center;
+    background-color: pink;
+    border-color: pink;
+}
+.btnf:hover{
+    background-color: rgb(224, 89, 111);
+    color: #fff;
+}
+.line{
+    text-decoration: line-through;
+}
+.save{
+    color: red;
+}
+.btnmore{
+    margin: 5%;
+    margin-bottom: 0;
 }
 /* Wedding Grandeur */
 #WeddingGrandeur{
     background-color: #fdeeec;
-    height: 700px;
-    width: 100%;
+ 
     text-align: center;
     padding: 5%;
     margin-bottom: 1px;
@@ -68,11 +96,18 @@ a{
 /* CATEGORIES */
 #CATEGORIES{
     background-color: #fdeeec;
-    height: 700px;
-    width: 100%;
+   
     text-align: center;
     padding: 5%;
     margin-bottom: 1px;
+}
+
+/* celebrities */
+#celebs{
+    background-color: #fdeeec;
+    text-align: center;
+    padding: 2%;
+
 }
 /* TRENDING */
 #TRENDING{
@@ -107,7 +142,10 @@ a{
 #featured{
     text-align: center;
     background-color: #fdeeec;
-    margin-top: 25px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 25px;
+    line-height: 4;
 }
 
 
